@@ -1,6 +1,6 @@
 # Barra de navegion.
 
-<img src="barra_animada.gif" width="200" height="400">
+<img src="gif/barra_animada.gif" width="200" height="400">
 
 ##  Dependencies
 
