@@ -1,4 +1,4 @@
-# Barra de navegion.
+# Barra de navegacion.
 
 <img src="gif/barra_animada.gif" width="200" height="400">
 
